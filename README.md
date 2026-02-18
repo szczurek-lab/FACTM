@@ -63,7 +63,12 @@ For Fig. B.5 see `data/data_analysis/mirex/factm_interpretation.ipynb`.
 
 If you use FACTM, please use the following citation:
 
-> Available soon
+> Łazęcka, M. &amp; Szczurek, E.M.. (2025). Factor Analysis with Correlated Topic Model for Multi-Modal Data. <i>Proceedings of The 28th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 258:1801-1809 Available from https://proceedings.mlr.press/v258/lazecka25a.html.
 
+## Funding
+
+This work received funding from the Polish National Science Centre SONATA BIS grant No. 2020/38/E/NZ2/00305
+
+## Contact
 
 If you would like to contact the authors, please reach out to m.lazecka at uw.edu.pl.
